@@ -12,3 +12,11 @@ https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/
 
 https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure
 
+### Azure - Architect api integration
+
+https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/
+
+### Azure - Architect modern applications in Azure
+
+https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/
+
